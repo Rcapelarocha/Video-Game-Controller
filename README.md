@@ -9,9 +9,10 @@ A custom Sound Voltex (SDVX) controller built using an Arduino Leonardo, featuri
 
 ✔️ USB HID output (Keyboard + Mouse)
 
+✔️ 3D prints from Thingiverse
+
 ✔️ Low-latency optimized input handling
 
-✔️ Fully open-source firmware
 
 This project allows you to emulate a SDVX-style controller for rhythm games such as K-Shoot Mania, USC, or Etterna.
 
